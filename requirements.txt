@@ -1,0 +1,12 @@
+Django==5.0.2
+django-compat==1.0.15
+django-cors-headers==4.7.0
+djangorestframework==3.16.1
+django-filter>=24,<26
+pymysql
+django-rest-auth
+python-dateutil==2.9.0.post0
+requests==2.32.3
+cryptography==42.0.8
+google-cloud-storage==2.15.0
+Pillow==10.4.0
